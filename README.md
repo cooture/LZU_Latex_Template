@@ -1,4 +1,4 @@
-![](a.png)
+![](https://github.com/ranxuebin/LZU_Latex_Template/blob/master/a.png)
 
 效果看图，Latex别问我
 
